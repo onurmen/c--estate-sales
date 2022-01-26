@@ -1,0 +1,87 @@
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\login.exe
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\login.deps.json
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\login.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\login.pdb
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.csprojAssemblyReference.cache
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.Form1.resources
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.csproj.GenerateResource.cache
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.csproj.CopyComplete
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.dll
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.pdb
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.Form2.resources
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.EV.resources
+C:\Users\programmer\Desktop\Yeni klasör (2)\login\login\obj\Debug\netcoreapp3.1\login.MUSTERİ.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\login.exe
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\login.deps.json
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\login.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\login.pdb
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.EV.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.MUSTERİ.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.csproj.GenerateResource.cache
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.csproj.CopyComplete
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.dll
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.pdb
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.csproj.AssemblyReference.cache
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.Properties.Resources.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.frmSifremiUnuttum.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.frmYeniKullanici.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.girisekran.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.anasayfa.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.frmSatis.resources
+C:\Users\programmer\Desktop\sistemproje\login\login\obj\Debug\netcoreapp3.1\login.GeneratedMSBuildEditorConfig.editorconfig
